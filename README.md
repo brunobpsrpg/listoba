@@ -1,4 +1,4 @@
-# LISTOBA — Cerberus v16.1
+# LISTOBA — Cerberus v0.16.1
 
 Kanban inteligente em JSON + PHP com exportação WhatsApp.
 
